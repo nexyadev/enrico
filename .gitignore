@@ -1,0 +1,15 @@
+# Local QA files; the published site uses assets/ only.
+/scripts/
+
+# Development files.
+/.vscode/
+/.idea/
+/node_modules/
+/.env
+/.env.*
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
